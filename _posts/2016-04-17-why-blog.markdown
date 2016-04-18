@@ -10,7 +10,7 @@ My posts will probably deal with  Programming, Linux and some handy instructions
 
 I have had blogs before but I've never actively maintained any of them. As I write this post I'm in the process of figuring out how to delete my long since abandoned wordpress and blogger accounts. Unfortunately blogger does <em>not</em> allow you delete your profile without also deleting your google account.
 
-I will be writing at least one post per week which in my opinion is an easier schedule to stick to than [Jeff Atwood's](http://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/) six posts per week.
+I will be writing at least one post per week which in my opinion is an easier schedule to stick to than [Jeff Atwood's](http://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/){:target="_blank"} six posts per week.
 
 #### How I set up my blog
 

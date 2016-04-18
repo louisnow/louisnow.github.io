@@ -11,6 +11,9 @@ shorturl:            louischristopher.me
 paginate:            1
 baseurl:             ""
 
+markdown:    kramdown
+highlighter: rouge
+
 # Assets
 # We specify the directory for Jekyll so we can use @imports.
 sass:

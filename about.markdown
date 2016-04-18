@@ -9,6 +9,7 @@ I am Louis Christopher. I started this blog so that I can document my own progre
 
 * Functional Programming and Programming Language Theory
 * Dynamically typed languages especially Python and Javascript
+* React and React Native (betting big on this!)
 * DevOps and Backend Development
 * Machine Learning
 
@@ -18,7 +19,7 @@ This list is very likely to expand and only reflects what I'm currently working 
 
 * Won a hackathon conducted by Microsoft [in 2015](https://i.imgur.com/BbFS9pS.jpg)
 
-Currently working on the SICP Challenge.
+Currently working on the SICP [Challenge](https://louischristopher.me/sicp/challenge).
 
 Follow me on [Github](https://github.com/louis9171)
 
