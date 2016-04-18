@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-set -e # halt script on error
 
+echo "Starting Jekyll Build"
 bundle exec jekyll build
+echo "Starting htl proofer"
 bundle exec htmlproofer ./_site --assume-extension
