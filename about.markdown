@@ -19,7 +19,8 @@ This list is very likely to expand and only reflects what I'm currently working 
 
 * Won a hackathon conducted by Microsoft [in 2015](https://i.imgur.com/BbFS9pS.jpg)
 
-Currently working on the SICP [Challenge](https://louischristopher.me/sicp/challenge).
+I firmly believe in Peter Norvig's [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) philosophy.
+Currently working on the [SICP Challenge](https://louischristopher.me/sicp-challenge).
 
 Follow me on [Github](https://github.com/louis9171)
 

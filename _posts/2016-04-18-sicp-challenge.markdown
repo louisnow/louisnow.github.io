@@ -5,7 +5,7 @@ comments: true
 permalink: sicp-challenge
 ---
 
-I have decided to take on task of actually <em>doing</em> [Structure and Interpretation of Computer Science](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs). I have tried reading it in the past with varying degrees of success. Just reading the book isn't enough though. The authors have really put in a lot of effort in structuring the exercises. If you skip them, you'll be missing out on a huge part of what makes SICP so wonderful. You can find the book freely available with search friendly modern typography [here](https://github.com/sarabander) .
+I have decided to take on task of actually <em>doing</em> [Structure and Interpretation of Computer Science](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs). I have tried reading it in the past with varying degrees of success. Just reading the book isn't enough though. The authors have really put in a lot of effort in structuring the exercises. If you skip them, you'll be missing out on a huge part of what makes SICP so wonderful. You can find the book freely available in any format [here](https://github.com/sarabander), these versions have much better fonts than the official one.
 
 ## Why am I doing it?
 
