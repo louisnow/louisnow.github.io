@@ -33,7 +33,7 @@ pages_list:
   Archive: '/archive/'
   Feed: '/atom.xml'
 
-# Gems
+# Ruby Gems
 gems:
   - jekyll-paginate
   - jekyll-gist
