@@ -17,7 +17,7 @@ I want to read SICP because functional programming fascinates me. It forces me t
 
 * <em>Read the book alongside watching the original SICP lectures</em> by Abelson and Sussman available [here](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/) and on YouTube [here](https://www.youtube.com/playlist?list=PLE18841CABEA24090).
 
-* <em>Complete 95% of the exercises.</em> Some of the exercises are such that a solution is worthy of a Ph.D. thesis.[^fn-footnote] There are 356 exercises in SICP, so I need to average one a day, I should be done in one year.
+* <em>Complete 95% of the exercises.</em> Some of the exercises are such that a solution is worthy of a Ph.D. thesis.[^fn-footnote] There are 356 exercises in SICP, so if I average one a day, I should be done in one year.
 
 The project will be publicly available on github at this [repo](https://github.com/louis9171/Scheme_SICP) it's so that I can easily track my progress and  to help me stick to my schedule. Here's to the future. 
 
