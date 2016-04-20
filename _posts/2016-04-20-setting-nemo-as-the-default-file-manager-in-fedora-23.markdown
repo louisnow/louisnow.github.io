@@ -10,15 +10,15 @@ Unfortunately Fedora lacks an option in the Settings > Details > Default Applica
 
 ## Installation
 
-First install Nemo and a customization tool called Alacarte.
+> First, install Nemo and a customization tool called Alacarte.
 
 {% highlight shell %}
 sudo dnf install nemo alacarte
 {% endhighlight %}
 
-Now, according to this [StackOveflow answer](https://ask.fedoraproject.org/en/question/9759/how-do-i-use-the-nemo-file-browser-as-default-instead-of-nautilus/), you should be able to set nemo as your default file manger through Alacarte itself. I'd recommend you try that method first before continuing. In my case, that didn't work.
+According to this [StackOveflow answer](https://ask.fedoraproject.org/en/question/9759/how-do-i-use-the-nemo-file-browser-as-default-instead-of-nautilus/), you should be able to set nemo as your default file manger through Alacarte itself. I'd recommend you try that method first before continuing. In my case, that didn't work.
 
-The following command will force Nemo to be the default file manager in most circumstances. 
+> Next, the following command will force Nemo to be the default file manager in most circumstances. 
 
 {% highlight shell %}
 xdg-mime default nemo.desktop inode/directory
@@ -26,18 +26,18 @@ xdg-mime default nemo.desktop inode/directory
 
 So when you open folders from a browser, it will now use nemo instead of nautilus. Although certain applications will use nautilus at times. It is because of this that I recommend to not uninstall Nautilus to avoid weird bugs.
 
-Now to create an icon for nemo in the applications menu.
-Open Alacarte, select Accessories > New Item
+> Finally, create an icon for nemo in the applications menu.
 
-Set the command to 
-```shell 
+Open Alacarte, select Accessories > New Item.
+Set the command to :
+{% highlight shell %}
 /usr/bin/nemo
-```
-To get the icon for Nemo, navigate to
-```shell 
-/usr/share/icons/gnome/256x256/places/folder.png
-```
+{% endhighlight %}
 
+To get the icon for Nemo, navigate to : 
+{% highlight shell %}
+/usr/share/icons/gnome/256x256/places/folder.png
+{% endhighlight %}
 ![Nemo](/assets/nemo.png)
 
 Note : If you click browse in Alacarte, it will use Nautilus instead of Nemo. Removing nautilus might cause this to break. If you've tried it and everything is fine, do let me know in the comments.
