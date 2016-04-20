@@ -30,13 +30,13 @@ Now to create an icon for nemo in the applications menu.
 Open Alacarte, select Accessories > New Item
 
 Set the command to 
-{% highlight shell %} 
+```shell 
 /usr/bin/nemo
-{% endhighlight %}
+```
 To get the icon for Nemo, navigate to
-{% highlight shell %} 
+```shell 
 /usr/share/icons/gnome/256x256/places/folder.png
-{% endhighlight %}
+```
 
 ![Nemo](/assets/nemo.png)
 
