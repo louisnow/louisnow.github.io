@@ -10,9 +10,11 @@
         <h2 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>          
           {% for page in site.pages_list %}
-          &nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;
           <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
+          &nbsp;&nbsp;
+          <small><a href="https://www.google.com/search?q=site:http://louischristopher.me" target="_blank">Search</a></small>
         </h2>
         <h3 class="masthead-title"><small>{{ site.tagline }}</small></h3>
       </header>
