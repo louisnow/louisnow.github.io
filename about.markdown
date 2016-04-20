@@ -24,4 +24,4 @@ Currently working on the [SICP Challenge](https://louischristopher.me/sicp-chall
 
 Follow me on [Github](https://github.com/louis9171)
 
-Want to get in touch? [Tweet me](https://twitter.com/louis9171)
+Want to get in touch? Find me on twitter [@louis9171](https://twitter.com/louis9171)
