@@ -17,7 +17,7 @@ Lets say you have a file called ```lib.scm```:
 #lang racket 
 (define (sq x) (* x x))
 (define (cube x) (* x x x))
-(provide (all-defined-out)
+(provide (all-defined-out))
 ```
 Let's go over this, I have a file with some functions that I'd like to call elsewhere. The last line ```(provide (all-defined-out)``` is a method in Racket to make public all of the functions defined in the file. This method is only available in racket which is why we don't use ```#lang sicp``` here.
 
