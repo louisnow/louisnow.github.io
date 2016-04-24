@@ -30,7 +30,7 @@ Now, to use the above program in another file, let's say ```test.scm``` just inc
 ```  
 
 #### Sources
-<sup>[Scheme for SICP](http://docs.racket-lang.org/sicp-manual/index.html) , [StackOverflow](http://stackoverflow.com/questions/8996394/including-files-from-within-racket-scheme)<sup>
+<sup>[Scheme for SICP](http://docs.racket-lang.org/sicp-manual/index.html) , [StackOverflow](http://stackoverflow.com/questions/4809433/including-an-external-file-in-racket)<sup>
 
 
 {% include twitter_plug.html %}
