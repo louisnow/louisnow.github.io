@@ -8,8 +8,8 @@ I am Louis Christopher. I started this blog so that I can document my own progre
 ### Major areas of interest
 
 * Functional Programming and Programming Language Theory
-* Dynamically typed languages especially Python and Javascript
-* React and React Native (betting big on this!)
+* Dynamically typed languages especially Python and JavaScript
+* React/React Native and Node.js
 * DevOps and Backend Development
 * Machine Learning
 
