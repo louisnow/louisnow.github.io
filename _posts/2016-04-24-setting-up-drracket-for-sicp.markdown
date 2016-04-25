@@ -9,7 +9,7 @@ Download and install [DrRacket](https://racket-lang.org/).
 
 Follow the instructions to set up [Scheme for SICP](http://docs.racket-lang.org/sicp-manual/index.html).
 
-You should be good to go now but soon you will hit a limitation. While working through the exercises you'll find yourself wanting to create your own library of common functions. Doing this is slightly tricky to account for the modifications to DrRacket. Here's how to do it.
+You should be good to go now but soon you will hit a roadblock. Often times, while working through the exercises you'll find yourself wanting to create your own library of common functions. Doing this is slightly tricky to account for the modifications to DrRacket. Here's how to do it.
 
 Lets say you have a file called ```lib.scm```:
 

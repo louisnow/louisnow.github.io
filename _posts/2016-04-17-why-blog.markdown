@@ -5,8 +5,7 @@ comments: true
 permalink: why-blog
 ---
 
-I've decided to start writing a blog as a way to document my journey and help me stay focused. It will also better my writing skills. My research skills will improve because I will have to fact check everything I post. Proof read also. Do feel free to comment below using disqus.
-My posts will probably deal with  Programming, Linux and some handy instructions or gotcha’s which I find useful. My posts will not be limited to technical topics though, I also plan to share my thoughts of the world around me.
+I've decided to start writing a blog as a way to document my journey and help me stay focused. Blogging improves your writing skills and your research skills as well. You will have to proof read and fact check everything you post lest you make a mistake. Do feel free to comment using Disqus below. My posts will probably deal with  Programming, Linux and some handy instructions or gotcha’s which I find useful. My posts will not be limited to technical topics though. I'd like to think of my blog as my personal Journal[^fn-footnote]
 
 I have had blogs before but I've never actively maintained any of them. As I write this post I'm in the process of figuring out how to delete my long since abandoned wordpress and blogger accounts. Unfortunately blogger does <em>not</em> allow you delete your profile without also deleting your google account.
 
@@ -14,9 +13,11 @@ I will be writing at least one post per week which in my opinion is an easier sc
 
 #### How I set up my blog
 
-I followed Joshua Lande's excellent [post](http://joshualande.com/jekyll-github-pages-poole/) on how to set up a fully functioning blog using [Jekyll](https://jekyllrb.com/) and hosted for free using [Github Pages](https://pages.github.com/).
-I can't recommend Jekyll enough, it's fast, simple, elegant and most importantly all posts are written in markdown. If you've never heard of it before, check this [quora post](https://www.quora.com/How-does-a-static-site-generator-like-Jekyll-work). What I like most is the github integration, I can easily roll back any changes I made to the site. Here's the [repository](https://github.com/louis9171/louis9171.github.io) if you're interested.
+I followed Joshua Lande's excellent [post on how to set up a fully functioning blog ](http://joshualande.com/jekyll-github-pages-poole/) using [Jekyll](https://jekyllrb.com/) and hosted it for free on github using [Github Pages](https://pages.github.com/).
+I can't recommend Jekyll enough, it's fast, simple, elegant and most importantly all posts are written in markdown. If you've never heard of it before, check this [quora post](https://www.quora.com/How-does-a-static-site-generator-like-Jekyll-work). What I like most about Jekyll is the github integration, I can also easily roll back any changes I made to the site. Here's the [repository](https://github.com/louis9171/louis9171.github.io) if you're interested.
 
-I use [sublime text](https://www.sublimetext.com/) along with [sublime-jekyll](http://23maverick23.github.io/sublime-jekyll/) to ease my Jekyll workflow. I use [namecheap](https://www.namecheap.com/) for the domain registration and if you're a student you can grab one for free through Github's [Student Developer Pack](https://education.github.com/pack), they offer a lot of other free stuff too! To support https on a custom domain I used Cloudflare, instructions can be found [here](https://konklone.com/post/github-pages-now-sorta-supports-https-so-use-it). Github has not been very helpful to provide support for [this](https://github.com/isaacs/github/issues/156) on their end.
+I use [sublime text](https://www.sublimetext.com/) along with [sublime-jekyll](http://23maverick23.github.io/sublime-jekyll/) to ease my Jekyll workflow. I used [namecheap](https://www.namecheap.com/) for the domain registration. If you're a student you can grab one for free through Github's [Student Developer Pack](https://education.github.com/pack), they offer a lot of other free stuff too! To support https on a custom domain, I use Cloudflare, [just follow these instructions](https://konklone.com/post/github-pages-now-sorta-supports-https-so-use-it). Github has not been very helpful to [provide support for https on their end](https://github.com/isaacs/github/issues/156).
+
+[^fn-footnote]: [What's a Journal and why you should keep one](http://lifehacker.com/why-you-should-keep-a-journal-and-how-to-start-yours-1547057185)
 
 {% include twitter_plug.html %}
