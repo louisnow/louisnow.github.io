@@ -19,7 +19,7 @@ I want to read SICP because functional programming fascinates me. It forces me t
 
 * <em>Complete at least 95% of the exercises.</em> There are 356[^fn-footnote] exercises in SICP, so if I average one a day, it should take one year.
 
-The project will be publicly available on github at this [repo](https://github.com/louis9171/Scheme_SICP) it's so that I can easily track my progress and  to help me stick to my schedule. Here's to the future. 
+The project will be publicly available on github at this [repo](https://github.com/louisnow/Scheme_SICP) it's so that I can easily track my progress and  to help me stick to my schedule. Here's to the future. 
 
 
 [^fn-footnote]: [Source](http://eli.thegreenplace.net/2008/04/18/sicp-conclusion)

@@ -22,6 +22,6 @@ This list is very likely to expand and only reflects what I'm currently working 
 I firmly believe in Peter Norvig's [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) philosophy.
 Currently working on the [SICP Challenge](https://louischristopher.me/sicp-challenge).
 
-Follow me on [Github](https://github.com/louis9171)
+Follow me on [Github](https://github.com/louisnow)
 
-Want to get in touch? Find me on twitter [@louis9171](https://twitter.com/louis9171)
+Want to get in touch? Find me on twitter [@louisnoww](https://twitter.com/louisnoww)
