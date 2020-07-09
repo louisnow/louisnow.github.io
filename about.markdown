@@ -3,21 +3,15 @@ layout: page
 title: About
 ---
 
-I am Louis Christopher. I started this blog when I was a student so that I can document my progress as as a developer.
+Update 2020: I started this blog when I was a student so that I could document my progress as a developer.
+More to come soon.
 
 ### Major areas of interest
 
-* Functional Programming and Programming Language Theory
-* Dynamically typed languages especially Python and JavaScript
-* React/React Native and Node.js
-* DevOps and Backend Development
-* Machine Learning
-
-This list is very likely to expand and only reflects what I'm currently working on.
-
-### Achievements
-
-* Won a hackathon conducted by Microsoft [in 2015](https://i.imgur.com/BbFS9pS.jpg)
+- Functional Programming and Programming Language Theory
+- Building Distributed Systems with Go
+- DevOps
+- React/React Native/RxJS
 
 I firmly believe in Peter Norvig's [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) philosophy.
 Currently working on the [SICP Challenge](https://louischristopher.me/sicp-challenge).

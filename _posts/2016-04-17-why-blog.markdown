@@ -5,7 +5,7 @@ comments: true
 permalink: why-blog
 ---
 
-I've decided to start writing a blog as a way to document my journey and help me stay focused. Blogging improves your writing skills and your research skills as well. You will have to proof read and fact check everything you post lest you make a mistake. Do feel free to comment using Disqus below. My posts will probably deal with  Programming, Linux and some handy instructions or gotcha’s which I find useful. My posts will not be limited to technical topics though. I'd like to think of my blog as my personal Journal.[^fn-footnote]
+I've decided to start writing a blog as a way to document my journey and help me stay focused. Blogging improves your writing skills and your research skills as well. You will have to proof read and fact check everything you post lest you make a mistake. Do feel free to comment using Disqus below. My posts will probably deal with Programming, Linux and some handy instructions or gotcha’s which I find useful. My posts will not be limited to technical topics though. I'd like to think of my blog as my personal Journal.[^fn-footnote]
 
 I have had blogs before but I've never actively maintained any of them. As I write this post I'm in the process of figuring out how to delete my long since abandoned wordpress and blogger accounts. Unfortunately blogger does <em>not</em> allow you delete your profile without also deleting your google account.
 
