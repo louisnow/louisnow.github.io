@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am Louis Christopher. I started this blog so that I can document my own progress as a student developer.
+I am Louis Christopher. I started this blog when I was a student so that I can document my progress as as a developer.
 
 ### Major areas of interest
 
